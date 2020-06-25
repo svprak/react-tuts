@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "reacttuts",
-=======
-  "name": "react-tuts",
->>>>>>> 440450bc42fd44483ea90bfb3924ee08348b5b43
   "version": "0.1.0",
   "private": true,
   "dependencies": {

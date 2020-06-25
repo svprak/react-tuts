@@ -1,17 +1,12 @@
 import React from 'react';
-<<<<<<< HEAD
 // import Footer from './Footer';
 // import TodoItem from './TodoItem';
 // import ContactCard from './ContactCard';
 import Jokes from './Jokes';
-=======
-import logo from './logo.svg';
->>>>>>> 440450bc42fd44483ea90bfb3924ee08348b5b43
 import './App.css';
 
 function App() {
   return (
-<<<<<<< HEAD
     <div>
       <Jokes
         question="Why did the chicken commit suicide?"
@@ -45,25 +40,4 @@ function App() {
     // </div>
   );
 }
-=======
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
->>>>>>> 440450bc42fd44483ea90bfb3924ee08348b5b43
 export default App;
